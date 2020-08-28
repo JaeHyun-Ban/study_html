@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>강조 효과</title>
+</head>
+<body>
+	<p><b>"이 부분"</b>은 단순히 글씨가 굵은 부분이에요!</p>
+	<p><strong>"이 부분"</strong>은 중요한 부분이라서 굵게 표현됬어요!</p>
+</body>
+</html>

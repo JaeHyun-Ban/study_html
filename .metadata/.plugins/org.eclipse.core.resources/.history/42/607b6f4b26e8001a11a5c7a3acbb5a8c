@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>8) 인용구</title>
+</head>
+<body>
+	<p>HTML의 정의는
+	<q>웹 페이지를 만들기 위한 하이퍼 텍스트 마크업 언어</q>
+	입니다</p>
+</body>
+</html>
